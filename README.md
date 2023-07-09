@@ -1,4 +1,9 @@
 # 🔧 Predictive Maintenance 
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/vivek7208/Predictive-Maintenance/blob/master/predictive_maintenance.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Preview in nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/vivek7208/Predictive-Maintenance/blob/master/predictive_maintenance.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vivek7208/Predictive-Maintenance/blob/master/predictive_maintenance.ipynb)
 
 This repository contains a Jupyter notebook 📒 that guides you through the process of building a predictive maintenance model for turbofan engines 🚀 using Amazon SageMaker 🧠.
 
